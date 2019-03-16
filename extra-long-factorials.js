@@ -12,7 +12,6 @@ function extraLongFactorials(n) {
 }
 
 function addTwo(a, b) {
-  debugger;
   let targetLength;
   if (a.length >= b.length) {
     targetLength = a.length;
